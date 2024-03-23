@@ -1,1 +1,8 @@
+March 22, 2024:
+- We discussed on how we can use convolutional neural networks to deal with audio classification
+- We can use mel spectogram to change the sound wave into an image and then we can use CNNs to do the classification
+
+Next week goals:
+1. read the paper on transformers that sohiel gave to us
+2. look into the huggin face dataset, explore it adn get to do fun with it
 
